@@ -1,0 +1,27 @@
+PLINK v1.90b6.9 64-bit (4 Mar 2019)
+Options in effect:
+  --bfile TY_par_admx
+  --freq
+  --noweb
+  --out TY
+  --within ty.famfile.txt
+
+Hostname: Gideons-MacBook-Pro-2.local
+Working directory: /Users/bburd/Dropbox/desktop/guppy_seln/1_data
+Start time: Sat Oct 12 12:21:48 2019
+
+Note: --noweb has no effect since no web check is implemented yet.
+Random number seed: 1570897308
+8192 MB RAM detected; reserving 4096 MB for main workspace.
+11417 variants loaded from .bim file.
+49 people (0 males, 0 females, 49 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to TY.nosex .
+--within: 3 clusters loaded, covering a total of 49 people.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 49 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.864261.
+--freq: Cluster-stratified allele frequencies (founders only) written to
+TY.frq.strat .
+
+End time: Sat Oct 12 12:21:48 2019

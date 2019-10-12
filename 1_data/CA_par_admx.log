@@ -1,0 +1,30 @@
+PLINK v1.90b6.9 64-bit (4 Mar 2019)
+Options in effect:
+  --bfile NCA
+  --make-bed
+  --merge-list merge.list.ca.txt
+  --noweb
+  --out CA_par_admx
+
+Hostname: Gideons-MacBook-Pro-2.local
+Working directory: /Users/bburd/Dropbox/desktop/guppy_seln/1_data
+Start time: Sat Oct 12 12:21:42 2019
+
+Note: --noweb has no effect since no web check is implemented yet.
+Random number seed: 1570897302
+8192 MB RAM detected; reserving 4096 MB for main workspace.
+Performing single-pass merge (46 people, 11417 variants).
+Merged fileset written to CA_par_admx-merge.bed + CA_par_admx-merge.bim +
+CA_par_admx-merge.fam .
+11417 variants loaded from .bim file.
+46 people (0 males, 0 females, 46 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to CA_par_admx.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 46 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.83468.
+11417 variants and 46 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to CA_par_admx.bed + CA_par_admx.bim + CA_par_admx.fam ... done.
+
+End time: Sat Oct 12 12:21:42 2019
